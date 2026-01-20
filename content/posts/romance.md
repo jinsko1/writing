@@ -7,7 +7,7 @@ tags = ["humour"]
 description = "The Birth of Colleen Hoover's Rival"
 +++
 
-I might as well to kill myself.
+I might as well die.
 
 Now, allow me to explain how I arrived at this conclusion, as I do not readily consider myself as the suicidal type. I confess that life treats me fairly well, and I have no immediate reason beyond the one I shall shortly provide; but bear with me, and I promise you will find yourself in the warmest realms of empathy.
 

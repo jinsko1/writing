@@ -24,3 +24,7 @@ weight = 2
   url = "/index.xml"
   name = "RSS"
   weight = 50
+
+[params]
+enableReadingTime = true
+
