@@ -3,7 +3,6 @@ title = "My Debut as a Romance Novelist"
 date = "2025-10-29"
 draft = false
 tags = ["humour"]
-
 description = "The Birth of Colleen Hoover's Rival"
 +++
 
