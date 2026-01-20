@@ -1,5 +1,4 @@
 {{ define "main" }}
-
     <div class="post-list-container post-list-container-shadow">
         <div class="post">
             {{ $post_class := "post-head-wrapper-text-only"}}
@@ -45,18 +44,17 @@
                                 &nbsp;
                             {{ end }}
                         {{ end }}
-                        {{ if .Site.Params.enableReadingTime }}
-                            <i class="material-icons" style="">schedule</i>
-                            {{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
-
-                            {{ $minutes := math.Floor (div $readTime 60) }}
-                            {{ $seconds := mod $readTime 60 }}
-
-                            {{ if gt $minutes 0}}
-                            {{ $minutes }} {{ cond (eq $minutes 1) "minute" "min" }}
-                            {{ end }}
-                            {{ $seconds }} {{ cond (eq $seconds 1) "second" "s" }}.
+                        {{ if site.Params.enableReadingTime }}
+                            <span>&nbsp;·&nbsp;</span>
+                            <i class="material-icons">schedule</i>
+                            {{ $rt := .ReadingTime }}
+                            {{ $rt }} {{ cond (eq $rt 1) "minute" "minutes" }}
                         {{ end }}
+
+                        <span>&nbsp;·&nbsp;</span>
+                        <i class="material-icons">notes</i>
+                        {{ $wc := .WordCount }}
+                        {{ $wc }} {{ cond (eq $wc 1) "word" "words" }}
                     </div>
                 </div>
             </div>

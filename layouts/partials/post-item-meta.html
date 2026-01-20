@@ -1,0 +1,17 @@
+<div class="post-item-meta">
+    {{ i18n "format_date" .PublishDate }}
+    &emsp;
+    <!-- Reading Time Start -->
+    {{ if site.Params.enableReadingTime }}
+        <i class="material-icons" style="font-size:10px">schedule</i>
+        {{ .ReadingTime }} min
+    {{ end }}
+    <i class="material-icons" style="font-size:10px">notes</i>
+    {{ .WordCount }} words
+
+    <!-- Reading Time End -->
+    &emsp;
+    {{ if .Draft }}
+    <span class="draft-label">{{ i18n "draft" }}</span>
+    {{ end }}
+</div>
