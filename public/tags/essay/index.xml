@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essay on Writing</title>
+    <link>http://localhost:1313/tags/essay/</link>
+    <description>Recent content in Essay on Writing</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/essay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effort and Yield</title>
+      <link>http://localhost:1313/posts/effort/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/effort/</guid>
+      <description>&lt;p&gt;Exerting too much effort to complete a certain task is not uncommon. This is characteristic, especially of people who are habitually contrarian. Ideally, one exerts the least amount of effort possible to achieve the highest yield possible, but for various reasons, this is difficult to pull off. Hence, knowing, (1) when to exert effort, (2) how much of it to exert, and (3) the way in which it should be exerted, is necessary for optimal exertion. I will attempt an exploration of these three questions, but we must begin by defining effort and its result, which I will refer to as yield.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

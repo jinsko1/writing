@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<title>Effort and Yield</title>
+
+
+
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=5, user-scalable=5" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="From a Somewhat Lazy Person">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+      <script src="/js/toc.js"></script>
+    
+    <link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/scss/dark-mode.min.3d46e9b0e524cba53881c6fc7b4e8929eaa9035760280ffdb4ee1f4794de9902.css" integrity="sha256-PUbpsOUky6U4gcb8e06JKeqpA1dgKA/9tO4fR5TemQI=" media="screen">
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Noto+Sans+Mono:wght@400;700&display=swap">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/custom.css">
+
+</head>
+<body>
+    	<div id="app"><div class="single-column-drawer-container" id="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/posts/">
+                    Archive
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags/">
+                    Tags
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/index.xml">
+                    RSS
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#what-is-effort" class="nav-what-is-effort">
+									What is Effort?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#what-is-yield" class="nav-what-is-yield">
+									What is Yield?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#exert-effort" class="nav-exert-effort">
+									Exert Effort?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#how-much-effort-to-exert" class="nav-how-much-effort-to-exert">
+									How Much Effort to Exert?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#how-should-effort-be-invested" class="nav-how-should-effort-be-invested">
+									How Should Effort Be Invested?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav id="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div id="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a id="navTitle" class="navbar-brand" href="http://localhost:1313/">
+            Writing
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
+            <i class="material-icons" id="darkModeToggleIcon2">
+                dark_mode
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" id="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="http://localhost:1313/">
+        <div class="single-column-header-title">Writing</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+                <div id="streamContainer" class="stream-container">
+
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                
+            >
+                <div class="post-title">
+                    Effort and Yield
+                    
+                    <div class="post-subtitle">
+                        From a Somewhat Lazy Person
+                    </div>
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
+                            2025-09-28 00:00
+                        </time>
+                        
+
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/essay">essay</a>
+                                &nbsp;
+                            
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <p>Exerting too much effort to complete a certain task is not uncommon. This is characteristic, especially of people who are habitually contrarian. Ideally, one exerts the least amount of effort possible to achieve the highest yield possible, but for various reasons, this is difficult to pull off. Hence, knowing, (1) when to exert effort, (2) how much of it to exert, and (3) the way in which it should be exerted, is necessary for optimal exertion. I will attempt an exploration of these three questions, but we must begin by defining effort and its result, which I will refer to as yield.</p>
+<h2 id="what-is-effort">What is Effort?</h2>
+<p>Effort can simply be defined as the expenditure of energy—physical, mental, or both. Since energy is a limited resource, one should use it sparingly.</p>
+<h2 id="what-is-yield">What is Yield?</h2>
+<p>Yield is the result of exerting effort. Positive yield produces desirable outcomes; negative yield produces undesirable ones. Yield seems to be a multifaceted sum consisting of tangible benefits that are achieved immediately after the exertion of effort and other components which may include ethical benefits, prospective benefits, and aesthetic benefits. I’m sure there are others I overlooked.</p>
+<p>Since effort and yield have been defined, we can finally discuss the first facet of effort exertion: whether to exert effort.</p>
+<h2 id="exert-effort">Exert Effort?</h2>
+<p>The first question helps determine whether a certain task requires one’s effort—that is, whether one’s effort is warranted.</p>
+<p>It should be obvious that negative yield is not worth exerting effort for, so we will continue our discussion under the assumption that we are guaranteed positive yield. Take a look at Figure 1 below.</p>
+<p><img src="/images/effort_vs_yield.png" alt=""></p>
+<p><em>Figure 1: Effort vs Yield</em></p>
+<p>Anything below the line should be considered a waste of effort, and anything above it should justify effort. One should desire low effort and high yield (above the line). By the same token, high effort and low yield are undesirable (below the line). Our goal is the lower the effort-to-yield ratio as much as possible.</p>
+<p>Where one draws the line for making an effort may vary based on one’s values and the anticipated consequences, but the idea should be pretty straightforward. In the subsequent section, I explore the extent of effort exertion and its justification.</p>
+<h2 id="how-much-effort-to-exert">How Much Effort to Exert?</h2>
+<p>The second question helps determine whether the amount of effort exerted is proportional to the yield.</p>
+<p>We can further divide the plot into four distinct domains of behavior. Take a look Figure 2 below.</p>
+<p><img src="/images/categories.png" alt=""></p>
+<p><em>Figure 2: Classifications of Behavior Based on Effort and Yield</em></p>
+<p>The <strong>intelligent</strong> person is able to achieve above-par results while investing a low amount of effort. This is the ideal situation to be in. The <strong>hardworking</strong> person expends more effort to achieve comparable results to the intelligent person. Hardworking people compensate for their lack of talent and intelligence by investing a higher amount of effort into the task. This behavior is often considered a virtue by propriety, though this plot aptly illustrates its drawbacks. The <strong>average</strong> person achieves disappointing results and, being lazy, also invests little effort. At this point, it should be pretty obvious why <strong>idiocy</strong> belongs to the corresponding category. Any amount of effort that results in negative yield would also belong in this category.</p>
+<p>The plot does a decent job of illustrating the faults of an inflexible educational system, or really, any kind of bureaucracy. In education, the ultimate goal is learning. From Figure 2, it can be gleaned that being hardworking is not the only way to achieve high yield, or to learn successfully, in the case of education. It would follow that there are other better, more intelligent methods of learning that require less effort from the student. However, educators often fail to question the value of their methods, instead allowing their curricula and attitudes to fall in the hardworking category, or worse, the category of idiocy, requiring students to adopt learning strategies—often assignments—that, in reality, do not help students learn at all, and instead waste time for everyone involved.</p>
+<p>After reading the first version of the essay, <a href="https://www.visruth.com/">Visruth</a> proposed the following figure.</p>
+<p><img src="/images/exponential.png" alt=""></p>
+<p><em>Figure 3: Effort and Yield per Effort</em></p>
+<p>He posited that ideally, as one increases effort, the yield per unit of effort should also increase. That is, an increase by one unit of effort at low effort should not give the same yield increase compared to an increase by the same unit of effort far to the right side (high effort). As one increasingly invests effort, a higher rate of yield increase should be expected.</p>
+<p>Collating these thoughts yields Figure 4.</p>
+<p><img src="/images/final.png" alt=""></p>
+<p><em>Figure 4: Summarized Plot with Classifications of Behavior Proportional to Curve</em></p>
+<p>Now that we’ve explored the idea of how much effort to exert, it’s natural to discuss how it should be exerted.</p>
+<h2 id="how-should-effort-be-invested">How Should Effort Be Invested?</h2>
+<p>The third and final question determines how, specifically, effort should be invested to achieve the highest yield possible.</p>
+<p>We want the highest yield at the lowest cost of effort. When one finds themselves in a high-effort and high-yield scenario (hardworking), attempting to move toward the left category is imperative. One should ask themselves whether there is any method of decreasing effort without impacting yield. Laziness can sometimes be a virtue; lazy people ask themselves this question constantly. The problem is, lazy people also lack discipline by definition.</p>
+<p>Changing one’s approach to a task has the potential to increase yield. In other words, regardless of how much effort is being exerted, as long as one’s methods fail to change, increasing yield is impossibly difficult. One should pivot paths before trying harder. That is, it is important to realize that effort has little bearing on yield.</p>
+
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Last modified on 2025-09-28</p>
+                    
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="/posts/palindrome/">
+			Next<br>The Palindrome Woman and My Bladder
+                </a>
+                
+                
+                
+                <a class="older-posts" href="/posts/starbucks/">
+			Previous<br>Starbucks
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+                    </div>
+            </div><div id="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="http://localhost:1313/">
+    
+        <div class="nav-title">
+            Writing
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/posts/">
+                Archive
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags/">
+                Tags
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/index.xml">
+                RSS
+            </a>
+            
+        
+    </div>
+    
+    <div class="nav-footer">
+        
+Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+
+&copy;
+	
+	2025 Writing
+	
+
+    </div>
+    
+</div><div id="extraContainer" class="extra-container">
+    <div class="toc-wrapper">
+        
+
+        
+        <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#what-is-effort" class="nav-what-is-effort">
+									What is Effort?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#what-is-yield" class="nav-what-is-yield">
+									What is Yield?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#exert-effort" class="nav-exert-effort">
+									Exert Effort?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#how-much-effort-to-exert" class="nav-how-much-effort-to-exert">
+									How Much Effort to Exert?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#how-should-effort-be-invested" class="nav-how-should-effort-be-invested">
+									How Should Effort Be Invested?
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
+        
+    </div>
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top"
+            :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a type="button" class="pagination-action" id="darkModeToggleButton">
+            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
+                dark_mode
+            </span>
+        </a>
+        
+        
+    </div>
+</div>
+
+<div id="single-column-footer">
+Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+
+&copy;
+	
+	2025 Writing
+	
+</div>
+            </div>
+    
+    <script src="/js/journal.js"></script></body>
+</html>

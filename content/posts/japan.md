@@ -1,0 +1,19 @@
++++
+title = "Japan"
+date = "2024-09-13"
+draft = false
+
+description = "The old apartment complexes in Japan are usually brick red, dusty off-white, or plain brown."
++++
+
+The old apartment complexes in Japan are usually brick red, dusty off-white, or plain brown. They only come in these three listless color schemes. You can see them fairly well when taking the train, elevated off the street to save space. Buildings huddle together with just enough space in between for a single thin street. Story after story, door after door of rooms filled with families. It's depressing to see humans relegated to this lifestyle—an overly intricate complex swarming with humans cramming every available hole. Just like a nest full of ants: ants of rudimentary intelligence, completing tasks for the sake of completing them, and living for the sake of being alive. It's a melancholy sight, yet somehow beautiful—like watching nature at work. Like being god. Surely, in those moments, I must have had the eyes of god.
+
+Much of the trip was spent inside the house with Grandmother. Before I had arrived, she had planned a set of tasks for me to complete, ones she couldn't do by herself. She had asked me to pull the weeds from the backyard. I did not enjoy this. Instead, I made the excuse that it was too hot to work outside, so as any rational being would do, I worked for a mere five minutes and shuffled back into the chilled living room, careful not to be noticed in order to deliver the false impression that I was still busy at work outside. I spread the task of weeding over the entire trip. Grandmother never said anything. By the time I had finished, anybody walking past the house could tell that it was a lazy job. Roots were left in the dirt, heaps of torn grass scattered for the wind to blow, and orphaned bricks were left overturned. I ignored the streaks of sunlight that escaped the wisteria tree to shame my half-hearted effort. When I finally told her I was finished, I could tell she had given up on the prospects of a presentable yard.
+
+The rest of my time in Japan was spent as such, mostly lazing around, absorbing the world rather than living it. I do this to an unwarranted degree: allow myself an exit from my skin and traverse my empty thoughts.
+
+I did this when I was feeding the old woman (a different relative) her soft lukewarm grapes; she's dead now. She mushed the grapes with her half rotten teeth, making sure to push the grapes with her shriveled tongue to the left side of her mouth as she didn't have any teeth remaining on the right. Lying in a fetal position, crushed by her own weight, she told me the grapes tasted cool and sweet though I knew she couldn't possibly taste anything in her condition.
+
+There was an old man who frequented the park across the facility that held her captive. Calling it a park is a bit generous, but I'm not sure what else to call it, so park will do. Jazz bars were his favorite thing in the world, or so I imagined: pique polo shirt, chino pants, a weathered belt, and a fedora. He made it a habit to carry a half-empty box of cigarettes in his breast pocket. He belonged to the park; the park was incomplete without his presence. I understood this very well. The stray cats did too. They seemed somewhat out of place without the old man; he had become a part of their lives. Invariably, they traced the smoke rising from the old man's cigarette in awe, sullen at the sight of its wisps dissolving into the summer sky.
+
+By the end of the trip, I finished weeding the entire yard; front and back. I didn't do it for any particular reason. Naturally, no sense of satisfaction came to greet me. I'm sure the stray cats didn't give it much thought either.
