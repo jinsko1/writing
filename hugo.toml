@@ -1,4 +1,8 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://writing.jinsko.com/"
 languageCode = "en-us"
 title = "Diary"
 theme = "diary"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
