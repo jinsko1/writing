@@ -1,6 +1,6 @@
 baseURL = "https://writing.jinsko.com/"
 languageCode = "en-us"
-title = "Diary"
+title = "Writing"
 theme = "diary"
 
 [caches]
