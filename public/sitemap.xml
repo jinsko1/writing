@@ -2,47 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/35hz/</loc>
+    <loc>http://localhost:7880/posts/35hz/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:7880/posts/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:7880/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/humour/</loc>
+    <loc>http://localhost:7880/tags/humour/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/romance/</loc>
+    <loc>http://localhost:7880/posts/romance/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:7880/tags/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/equilibrium/</loc>
+    <loc>http://localhost:7880/posts/equilibrium/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/palindrome/</loc>
+    <loc>http://localhost:7880/posts/palindrome/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/effort/</loc>
+    <loc>http://localhost:7880/posts/effort/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/essay/</loc>
+    <loc>http://localhost:7880/tags/essay/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/starbucks/</loc>
+    <loc>http://localhost:7880/posts/starbucks/</loc>
     <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fish/</loc>
+    <loc>http://localhost:7880/posts/fish/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/japan/</loc>
+    <loc>http://localhost:7880/posts/japan/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/notes/</loc>
+    <loc>http://localhost:7880/categories/</loc>
   </url>
 </urlset>

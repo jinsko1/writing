@@ -84,7 +84,7 @@ _Feeling slightly better_
 
 I suppose…
 
-_Jean-Baptiste–Pierre-Marie de la Rochefoucauld-d’Aubigny finishes his bruised baguette, cramming it into his mouth and leaving crumbs across the tile. They decide to have pity sex lasting another fifty pages. A fragrant breeze carries the sweet smell of wheat._
+_Jean-Baptiste–Pierre-Marie de la Rochefoucauld-d’Aubigny finishes his bruised baguette, cramming it into his mouth and leaving crumbs across the tile. They decide to make love. This spans an additional fifty pages. A fragrant breeze carries with it the sweet smell of wheat._
 
 
 **Scene 3**

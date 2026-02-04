@@ -3,7 +3,7 @@ title = "The Equilibrium Girl"
 date = "2025-10-28"
 draft = false
 
-description = "As Normal People Do"
+description = " "
 +++
 
 When she got to college, she gained some weight. Lost some weight. Hated some people. Loved some people. Wished for death. Wished for life. But overall, she lived so that things would average out, and she could maintain, let’s say, some sort of equilibrium.

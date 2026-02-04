@@ -25,7 +25,7 @@ The following is a list of my favorite Starbucks orders:
 
 * _Oh My God, Do You Guys Wanna Be in My BeReal_ Frappuccino
 
-* Fuck Ass Brown Sugar Water
+* Soiled Sugar Water
 
 * Coffee—
 
