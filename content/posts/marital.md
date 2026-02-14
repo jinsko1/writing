@@ -2,7 +2,7 @@
 title = "Marital Troubles"
 date = 2026-02-09T20:16:00-08:00
 draft = false
-
+tags = ["humour"]
 description = "After the umpteenth time of her being kidnapped..."
 +++
 
