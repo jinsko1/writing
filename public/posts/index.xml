@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Writing</title>
+    <title>Posts on Jin&#39;s Writing</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Writing</description>
+    <description>Recent content in Posts on Jin&#39;s Writing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Feb 2026 20:16:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 21:32:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Marital Troubles</title>
-      <link>http://localhost:1313/posts/marital/</link>
-      <pubDate>Mon, 09 Feb 2026 20:16:00 -0800</pubDate>
-      <guid>http://localhost:1313/posts/marital/</guid>
-      <description>&lt;p&gt;After the umpteenth time of her being kidnapped (of which the specific number is far too high to keep count) by some spiky-mutated-turtle-dragon-what-the-fuck-is-that-thing-just-kill-it, my client has been greatly irritated—a completely normal and warranted response—by her hopeless ineptitude in securing the castle. Though these recurrent incidents have only begun after their marriage, similar troubles had been plaguing their relationship from day one. As I recall, during our meeting to finalize the papers, he had explained that it all began during their college days, before their first game was conceived.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Winter and Spring</title>
       <link>http://localhost:1313/posts/winter/</link>

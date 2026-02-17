@@ -1,6 +1,6 @@
 baseURL = "https://writing.jinsko.com/"
 languageCode = "en-us"
-title = "Writing"
+title = "Jin's Writing"
 theme = "diary"
 
 [caches]
@@ -23,7 +23,7 @@ weight = 2
 
 [menu]
   [[menu.main]]
-    name = "Categories"
+    name = "Series"
     url = "/categories/"
     weight = 3
 
