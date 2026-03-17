@@ -37,6 +37,6 @@ As if abruptly appearing at the footsteps of my heart, I was very much shaken by
 
 I felt everything slip away for the very last time. They would all despise me: the music, the fire, the children, the cat, the unfulfilled lives, the snow finally thawing, dripping off the roof, but most importantly, you.
 
-And as fate finally brought her sword down, she said, “You must first collect yourself in one piece and leave everything behind. Everything. Only then can I love you. Only then can you love me. We will hold each other close and bleed into one another, but this time, we will look outwards in the same direction.”
+And as fate finally brought her sword down, she said, “You must first collect yourself in one piece and leave everything behind. Everything. Only then can I love you. Only then can you love me. We will hold each other close and bleed into one another.”
 
 So I did, utterly afraid much like you, as I sank, writhing in the depths of spring. Indeed, I flew into the torments of memory and the riches of uncertainty, forever despairing in the name of hope.
