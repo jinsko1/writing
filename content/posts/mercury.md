@@ -3,7 +3,7 @@ title = "Mercury"
 date = 2026-03-26T02:39:00-08:00
 draft = false
 
-description = ""
+description = " "
 +++
 
 Hear the cicada, the professor said. Years ago, its mother laid her eggs in the branches of a tree. The larva begins as an innocuous white grain, feeding on the plant’s labor as it grows larger and larger, until it finally burrows into the earth. By then, it has developed a brown layer of armor, its mandibles dexterous, as if tentacles. It’s a hideous thing. Really, it is. One night, after it has fully matured, the ugly creature makes its way up a tree and sheds its armor, revealing a white, translucent alien. The white cicada is truly beautiful; untainted, its fleeting body glows in the dark. Its wings are transparent, sparkling incandescently in the moonlight. But in this form, the cicada is soft and weak, and the hungry birds swoop down to tear the beautiful thing to bits. If it is lucky enough to go unnoticed, it flies into the sky, becoming a pinprick of light that will one day turn into a shooting star. Then, the cats devour the falling star and the cicadas live on forever within them.
