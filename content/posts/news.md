@@ -1,5 +1,5 @@
 +++
-title = "Cal Poly nerd clobbered with Owala bottles and Stanley cups by a group of sorority girls"
+title = "Cal Poly nerd clobbered by a group of sorority girls wielding Owala bottles and Stanley cups"
 description = " "
 date = 2026-03-26T09:00:00-07:00
 layout = "mustang"
