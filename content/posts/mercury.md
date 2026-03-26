@@ -38,7 +38,7 @@ By lunchtime, the professor would invite people from the town to hear the miracl
 
 By then, the professor started developing a herniation on his back. Sometimes, it seemed as if something would burst out of it. It was painful to watch him live his daily life with the new obstruction, so he started taking his own medicine. He also started sleeping on his chest to avoid lying on the protrusion. Before bed, he often asked me to massage the lump, but it was quite stubborn, and it didn't seem as though it would go away any time soon. On account of his deteriorating health, he began spending more time in bed.
 ***
-_Another dark night. Very dark. But alas, it is not lonely._
+_Another dark night. Very dark. But finally, it is not lonely._
 
 _A man sleeps, prone on his bed. The lump on his back begins to swell, the skin growing increasingly thin. He does not notice this; he is too weak, too tired. Eventually, his skin gives way, unable to withstand the pressure beneath, and bursts with a sharp pop. From within the man’s wound, a hunched-over flower bud appears, straightening itself toward the ceiling. Despite his rupture, the man wakes, but stays prone, for he has already lost all power to resist. As the flower begins to bloom, the man feels his strength being sucked out of him. He attempts to resist, holding onto the remaining strands of life, but everything must be relinquished._
 
