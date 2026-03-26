@@ -347,8 +347,9 @@
 @media (max-width: 700px) {
   .mustang-topbar,
   .mustang-subbar,
-  .mustang-article-page .mustang-title {
-    font-size: 38px;
+  .mustang-article-page {
+    width: calc(100vw - 15px);
+    max-width: none;
   }
 
   .mustang-brand a {
