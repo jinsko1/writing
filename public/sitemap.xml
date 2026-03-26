@@ -11,6 +11,24 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-03-25T02:39:00-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/arthur-dulin/</loc>
+    <lastmod>2026-03-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cal-poly/</loc>
+    <lastmod>2026-03-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/news/</loc>
+    <lastmod>2026-03-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/campus-dining/</loc>
+    <lastmod>2026-03-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nacufs/</loc>
+    <lastmod>2026-03-22T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-22T09:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-02-28T17:29:00-08:00</lastmod>
   </url><url>
@@ -33,9 +51,6 @@
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/romance/</loc>
-    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/palindrome/</loc>
