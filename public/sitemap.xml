@@ -2,79 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/news/</loc>
+    <loc>https://writing.jinsko.com/</loc>
+    <lastmod>2026-04-08T21:27:00-08:00</lastmod>
+  </url><url>
+    <loc>https://writing.jinsko.com/posts/stranger/</loc>
+    <lastmod>2026-04-08T21:27:00-08:00</lastmod>
+  </url><url>
+    <loc>https://writing.jinsko.com/posts/</loc>
+    <lastmod>2026-04-08T21:27:00-08:00</lastmod>
+  </url><url>
+    <loc>https://writing.jinsko.com/posts/news/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://writing.jinsko.com/tags/lewkin/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lewkin/</loc>
+    <loc>https://writing.jinsko.com/tags/lululemon/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lululemon/</loc>
+    <loc>https://writing.jinsko.com/tags/matcha/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/matcha/</loc>
+    <loc>https://writing.jinsko.com/tags/off-shoulder-tops/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/off-shoulder-tops/</loc>
+    <loc>https://writing.jinsko.com/tags/owala/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/owala/</loc>
+    <loc>https://writing.jinsko.com/tags/stanley/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://writing.jinsko.com/tags/</loc>
     <lastmod>2026-03-26T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stanley/</loc>
-    <lastmod>2026-03-26T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-26T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/mercury/</loc>
+    <loc>https://writing.jinsko.com/posts/mercury/</loc>
     <lastmod>2026-03-25T02:39:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://writing.jinsko.com/categories/</loc>
     <lastmod>2026-02-28T17:29:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/winter-and-spring/</loc>
+    <loc>https://writing.jinsko.com/categories/winter-and-spring/</loc>
     <lastmod>2026-02-28T17:29:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/winter3/</loc>
+    <loc>https://writing.jinsko.com/posts/winter3/</loc>
     <lastmod>2026-02-28T17:29:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/winter2/</loc>
+    <loc>https://writing.jinsko.com/posts/winter2/</loc>
     <lastmod>2026-02-22T11:19:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/winter/</loc>
+    <loc>https://writing.jinsko.com/posts/winter/</loc>
     <lastmod>2026-02-05T21:32:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/35hz/</loc>
+    <loc>https://writing.jinsko.com/posts/35hz/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/humour/</loc>
+    <loc>https://writing.jinsko.com/tags/humour/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/romance/</loc>
+    <loc>https://writing.jinsko.com/posts/romance/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/palindrome/</loc>
+    <loc>https://writing.jinsko.com/posts/palindrome/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/effort/</loc>
+    <loc>https://writing.jinsko.com/posts/effort/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/essay/</loc>
+    <loc>https://writing.jinsko.com/tags/essay/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/starbucks/</loc>
+    <loc>https://writing.jinsko.com/posts/starbucks/</loc>
     <lastmod>2025-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fish/</loc>
+    <loc>https://writing.jinsko.com/posts/fish/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/japan/</loc>
+    <loc>https://writing.jinsko.com/posts/japan/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url>
 </urlset>
