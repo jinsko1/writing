@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jin&#39;s Writing</title>
-    <link>https://writing.jinsko.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Jin&#39;s Writing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Feb 2026 17:29:00 -0800</lastBuildDate>
-    <atom:link href="https://writing.jinsko.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Winter and Spring</title>
-      <link>https://writing.jinsko.com/categories/winter-and-spring/</link>
+      <link>http://localhost:1313/categories/winter-and-spring/</link>
       <pubDate>Sat, 28 Feb 2026 17:29:00 -0800</pubDate>
-      <guid>https://writing.jinsko.com/categories/winter-and-spring/</guid>
+      <guid>http://localhost:1313/categories/winter-and-spring/</guid>
       <description></description>
     </item>
   </channel>
