@@ -24,7 +24,7 @@ The envelope was severely tattered, certain corners torn and damp, as if she clu
 
 ---
 
-_Darling_,
+_Darling,_
 
 _It’s been quite some time since I wrote to you, I know, which may come across as cruel considering I’ve received all your letters, but please know that I’m writing this letter with the utmost haste. You must feel abandoned, but I beg of you, understand that this is not the case in the least. I’ve been through some difficult times as well, and will proceed to explain myself thoroughly, as best I can._
 
